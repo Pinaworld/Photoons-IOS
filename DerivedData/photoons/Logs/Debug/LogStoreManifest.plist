@@ -5,6 +5,39 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>15E32104-47E3-4948-A3F1-55A760622420</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>15E32104-47E3-4948-A3F1-55A760622420.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581250375.46526098</real>
+			<key>timeStoppedRecording</key>
+			<real>581250595.99354994</real>
+			<key>title</key>
+			<string>Debug photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>15E32104-47E3-4948-A3F1-55A760622420</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -205,6 +205,8 @@ SWIFT_CLASS("_TtC8photoons11AppDelegate")
 SWIFT_CLASS("_TtC8photoons14ViewController")
 @interface ViewController : UIViewController
 - (void)viewDidLoad;
+- (IBAction)registerBut:(id _Nonnull)sender;
+- (IBAction)connectGoogle:(id _Nonnull)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end

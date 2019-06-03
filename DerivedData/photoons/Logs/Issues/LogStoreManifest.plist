@@ -5,7 +5,34 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>AEEA0D1C-5E38-4327-A4C2-A7265E0804A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>AEEA0D1C-5E38-4327-A4C2-A7265E0804A0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>photoons-cgrhbizygcsjtcgsbawbjzwgazag</string>
+			<key>timeStartedRecording</key>
+			<real>581250364.25387394</real>
+			<key>timeStoppedRecording</key>
+			<real>581250375.41000402</real>
+			<key>title</key>
+			<string>Build target photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>AEEA0D1C-5E38-4327-A4C2-A7265E0804A0</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
