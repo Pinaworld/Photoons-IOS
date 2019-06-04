@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>logFormatVersion</key>
-	<integer>10</integer>
+	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>AEEA0D1C-5E38-4327-A4C2-A7265E0804A0</key>
+		<key>0A183E41-97EA-4A37-92EB-BDBC5D339D8B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,22 +15,19 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>AEEA0D1C-5E38-4327-A4C2-A7265E0804A0.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
+			<string>0A183E41-97EA-4A37-92EB-BDBC5D339D8B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
 			<key>signature</key>
 			<string>photoons-cgrhbizygcsjtcgsbawbjzwgazag</string>
 			<key>timeStartedRecording</key>
-			<real>581250364.25387394</real>
+			<real>581331172.42605901</real>
 			<key>timeStoppedRecording</key>
-			<real>581250375.41000402</real>
+			<real>581331174.68448305</real>
 			<key>title</key>
 			<string>Build target photoons</string>
 			<key>uniqueIdentifier</key>
-			<string>AEEA0D1C-5E38-4327-A4C2-A7265E0804A0</string>
+			<string>0A183E41-97EA-4A37-92EB-BDBC5D339D8B</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

@@ -21,5 +21,8 @@ class ViewController: UIViewController {
     
     @IBAction func connectGoogle(_ sender: Any) {
     }
+    
+    @IBAction func connectFaceBook(_ sender: Any) {
+    }
 }
 

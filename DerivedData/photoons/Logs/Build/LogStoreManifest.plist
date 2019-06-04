@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>logFormatVersion</key>
-	<integer>10</integer>
+	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>C20F16CA-7237-48EA-9C22-86CC5274626E</key>
+		<key>0288D478-3687-4EC9-8E90-D9DD18912347</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,12 +15,9 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C20F16CA-7237-48EA-9C22-86CC5274626E.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
+			<string>0288D478-3687-4EC9-8E90-D9DD18912347.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
 			<string>photoons project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -30,13 +27,390 @@
 			<key>signature</key>
 			<string>Build photoons</string>
 			<key>timeStartedRecording</key>
-			<real>581250364.05755699</real>
+			<real>581330989.69398201</real>
 			<key>timeStoppedRecording</key>
-			<real>581250375.49659598</real>
+			<real>581330991.15775299</real>
 			<key>title</key>
 			<string>Build photoons</string>
 			<key>uniqueIdentifier</key>
-			<string>C20F16CA-7237-48EA-9C22-86CC5274626E</string>
+			<string>0288D478-3687-4EC9-8E90-D9DD18912347</string>
+		</dict>
+		<key>047E8610-1B16-4734-9BAD-70B5CD21F0B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>047E8610-1B16-4734-9BAD-70B5CD21F0B6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581329156.13412797</real>
+			<key>timeStoppedRecording</key>
+			<real>581329157.28355396</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>047E8610-1B16-4734-9BAD-70B5CD21F0B6</string>
+		</dict>
+		<key>08D8A1E3-6530-4AC3-A241-9C7DD5A93827</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08D8A1E3-6530-4AC3-A241-9C7DD5A93827.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581330375.97421002</real>
+			<key>timeStoppedRecording</key>
+			<real>581330400.67920101</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>08D8A1E3-6530-4AC3-A241-9C7DD5A93827</string>
+		</dict>
+		<key>15BA7D50-665E-4A73-8396-E95F487A1902</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>15BA7D50-665E-4A73-8396-E95F487A1902.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581330643.39767694</real>
+			<key>timeStoppedRecording</key>
+			<real>581330649.01114404</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>15BA7D50-665E-4A73-8396-E95F487A1902</string>
+		</dict>
+		<key>396670BF-375C-4EB2-A6C7-B13B32AAA22F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>396670BF-375C-4EB2-A6C7-B13B32AAA22F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581329340.39648902</real>
+			<key>timeStoppedRecording</key>
+			<real>581329370.62372899</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>396670BF-375C-4EB2-A6C7-B13B32AAA22F</string>
+		</dict>
+		<key>39C957A6-B1A0-48D0-AF8C-CF15933DA490</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>39C957A6-B1A0-48D0-AF8C-CF15933DA490.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581331172.335127</real>
+			<key>timeStoppedRecording</key>
+			<real>581331174.76338696</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>39C957A6-B1A0-48D0-AF8C-CF15933DA490</string>
+		</dict>
+		<key>46F688F5-BD01-4D84-969E-45F3AA8DD662</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>46F688F5-BD01-4D84-969E-45F3AA8DD662.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581329169.37989295</real>
+			<key>timeStoppedRecording</key>
+			<real>581329169.41691506</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>46F688F5-BD01-4D84-969E-45F3AA8DD662</string>
+		</dict>
+		<key>4DA4EFC2-FB5A-482A-83E7-D147F8C0302E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4DA4EFC2-FB5A-482A-83E7-D147F8C0302E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581330929.32656395</real>
+			<key>timeStoppedRecording</key>
+			<real>581330931.85291505</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>4DA4EFC2-FB5A-482A-83E7-D147F8C0302E</string>
+		</dict>
+		<key>5EA00932-A33A-4AC0-9243-0BF5A38EBED3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5EA00932-A33A-4AC0-9243-0BF5A38EBED3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581329854.60382104</real>
+			<key>timeStoppedRecording</key>
+			<real>581329863.34306097</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>5EA00932-A33A-4AC0-9243-0BF5A38EBED3</string>
+		</dict>
+		<key>7EC58402-01D1-4FE5-930D-BDFBE3BED882</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7EC58402-01D1-4FE5-930D-BDFBE3BED882.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581331024.19083595</real>
+			<key>timeStoppedRecording</key>
+			<real>581331025.53514194</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>7EC58402-01D1-4FE5-930D-BDFBE3BED882</string>
+		</dict>
+		<key>AE15C93B-548D-4FA4-9673-54FF3622B8E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE15C93B-548D-4FA4-9673-54FF3622B8E6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581329206.73215902</real>
+			<key>timeStoppedRecording</key>
+			<real>581329206.87964106</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>AE15C93B-548D-4FA4-9673-54FF3622B8E6</string>
+		</dict>
+		<key>B44DCAC9-6EE2-4224-ABD1-F84FA9DC89F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B44DCAC9-6EE2-4224-ABD1-F84FA9DC89F5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581331110.674402</real>
+			<key>timeStoppedRecording</key>
+			<real>581331112.38747001</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>B44DCAC9-6EE2-4224-ABD1-F84FA9DC89F5</string>
+		</dict>
+		<key>CEE6C15A-3485-47A9-8C5E-CB9C87D2A10E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CEE6C15A-3485-47A9-8C5E-CB9C87D2A10E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581330948.32614303</real>
+			<key>timeStoppedRecording</key>
+			<real>581330949.68328798</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>CEE6C15A-3485-47A9-8C5E-CB9C87D2A10E</string>
+		</dict>
+		<key>E1638804-1711-4F68-BF99-31594255C33E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1638804-1711-4F68-BF99-31594255C33E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoons project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoons</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build photoons</string>
+			<key>timeStartedRecording</key>
+			<real>581329793.46104097</real>
+			<key>timeStoppedRecording</key>
+			<real>581329805.09344304</real>
+			<key>title</key>
+			<string>Build photoons</string>
+			<key>uniqueIdentifier</key>
+			<string>E1638804-1711-4F68-BF99-31594255C33E</string>
 		</dict>
 	</dict>
 </dict>
