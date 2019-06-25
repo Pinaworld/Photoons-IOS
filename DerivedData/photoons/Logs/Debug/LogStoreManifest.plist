@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>logFormatVersion</key>
-	<integer>9</integer>
+	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>06F0AA12-6D68-4F31-8050-5B1EB5B7A4D9</key>
+		<key>03942A9F-39B9-443B-9896-7A742BADF704</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,9 +15,12 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>06F0AA12-6D68-4F31-8050-5B1EB5B7A4D9.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
+			<string>03942A9F-39B9-443B-9896-7A742BADF704.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>photoons project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -27,15 +30,15 @@
 			<key>signature</key>
 			<string>Debug photoons</string>
 			<key>timeStartedRecording</key>
-			<real>581330931.78013301</real>
+			<real>583157960.08464205</real>
 			<key>timeStoppedRecording</key>
-			<real>581330947.87545395</real>
+			<real>583158001.80797005</real>
 			<key>title</key>
 			<string>Debug photoons</string>
 			<key>uniqueIdentifier</key>
-			<string>06F0AA12-6D68-4F31-8050-5B1EB5B7A4D9</string>
+			<string>03942A9F-39B9-443B-9896-7A742BADF704</string>
 		</dict>
-		<key>0992D5F5-BA22-4578-8C18-A8A5A3D383F1</key>
+		<key>3A3CD991-8D04-48C6-8E18-810D8B70371C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -44,9 +47,12 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0992D5F5-BA22-4578-8C18-A8A5A3D383F1.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
+			<string>3A3CD991-8D04-48C6-8E18-810D8B70371C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>photoons project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -56,15 +62,15 @@
 			<key>signature</key>
 			<string>Debug photoons</string>
 			<key>timeStartedRecording</key>
-			<real>581329804.97332394</real>
+			<real>583158008.38940299</real>
 			<key>timeStoppedRecording</key>
-			<real>581329854.76865494</real>
+			<real>583158018.00720894</real>
 			<key>title</key>
 			<string>Debug photoons</string>
 			<key>uniqueIdentifier</key>
-			<string>0992D5F5-BA22-4578-8C18-A8A5A3D383F1</string>
+			<string>3A3CD991-8D04-48C6-8E18-810D8B70371C</string>
 		</dict>
-		<key>314C8DD8-27A8-4E56-9D3D-2F718B619F85</key>
+		<key>3A7511A8-9B11-4092-B6C1-2EF6496D240B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -73,9 +79,12 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>314C8DD8-27A8-4E56-9D3D-2F718B619F85.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
+			<string>3A7511A8-9B11-4092-B6C1-2EF6496D240B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>photoons project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -85,15 +94,15 @@
 			<key>signature</key>
 			<string>Debug photoons</string>
 			<key>timeStartedRecording</key>
-			<real>581330648.95228505</real>
+			<real>583158034.59667003</real>
 			<key>timeStoppedRecording</key>
-			<real>581330927.22900796</real>
+			<real>583158196.844087</real>
 			<key>title</key>
 			<string>Debug photoons</string>
 			<key>uniqueIdentifier</key>
-			<string>314C8DD8-27A8-4E56-9D3D-2F718B619F85</string>
+			<string>3A7511A8-9B11-4092-B6C1-2EF6496D240B</string>
 		</dict>
-		<key>3798C7EE-71AA-4E2A-8A3B-3E1AE393BD90</key>
+		<key>A3B66774-DBDC-4749-9781-338E81880485</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -102,9 +111,12 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3798C7EE-71AA-4E2A-8A3B-3E1AE393BD90.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
+			<string>A3B66774-DBDC-4749-9781-338E81880485.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>photoons project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -114,15 +126,15 @@
 			<key>signature</key>
 			<string>Debug photoons</string>
 			<key>timeStartedRecording</key>
-			<real>581331025.468647</real>
+			<real>583154746.80596697</real>
 			<key>timeStoppedRecording</key>
-			<real>581331110.96366704</real>
+			<real>583155159.86197102</real>
 			<key>title</key>
 			<string>Debug photoons</string>
 			<key>uniqueIdentifier</key>
-			<string>3798C7EE-71AA-4E2A-8A3B-3E1AE393BD90</string>
+			<string>A3B66774-DBDC-4749-9781-338E81880485</string>
 		</dict>
-		<key>56190609-6EEF-4781-9EC7-1563FABCC535</key>
+		<key>DE5378F9-3914-4101-8684-94DC750C7DAF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -131,9 +143,12 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>56190609-6EEF-4781-9EC7-1563FABCC535.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
+			<string>DE5378F9-3914-4101-8684-94DC750C7DAF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>photoons project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -143,15 +158,15 @@
 			<key>signature</key>
 			<string>Debug photoons</string>
 			<key>timeStartedRecording</key>
-			<real>581330949.62033904</real>
+			<real>583157727.52177501</real>
 			<key>timeStoppedRecording</key>
-			<real>581330984.96495497</real>
+			<real>583157735.49773896</real>
 			<key>title</key>
 			<string>Debug photoons</string>
 			<key>uniqueIdentifier</key>
-			<string>56190609-6EEF-4781-9EC7-1563FABCC535</string>
+			<string>DE5378F9-3914-4101-8684-94DC750C7DAF</string>
 		</dict>
-		<key>57A71E7B-F239-4AB6-84BB-620C88E1D213</key>
+		<key>EDDAA99A-8C6A-41AC-B93D-E77856934081</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -160,9 +175,12 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>57A71E7B-F239-4AB6-84BB-620C88E1D213.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
+			<string>EDDAA99A-8C6A-41AC-B93D-E77856934081.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>photoons project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -172,158 +190,13 @@
 			<key>signature</key>
 			<string>Debug photoons</string>
 			<key>timeStartedRecording</key>
-			<real>581331112.27141595</real>
+			<real>583157915.70446599</real>
 			<key>timeStoppedRecording</key>
-			<real>581331171.83720601</real>
+			<real>583157958.15158701</real>
 			<key>title</key>
 			<string>Debug photoons</string>
 			<key>uniqueIdentifier</key>
-			<string>57A71E7B-F239-4AB6-84BB-620C88E1D213</string>
-		</dict>
-		<key>A2D4E804-D6EC-4D4E-83B7-1BB00D9E09DF</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>A2D4E804-D6EC-4D4E-83B7-1BB00D9E09DF.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>photoons project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>photoons</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug photoons</string>
-			<key>timeStartedRecording</key>
-			<real>581330991.08827806</real>
-			<key>timeStoppedRecording</key>
-			<real>581331023.80337703</real>
-			<key>title</key>
-			<string>Debug photoons</string>
-			<key>uniqueIdentifier</key>
-			<string>A2D4E804-D6EC-4D4E-83B7-1BB00D9E09DF</string>
-		</dict>
-		<key>B21C3889-4BFC-4E66-B7DD-ED82E5AF9130</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>B21C3889-4BFC-4E66-B7DD-ED82E5AF9130.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>photoons project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>photoons</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug photoons</string>
-			<key>timeStartedRecording</key>
-			<real>581329863.29333699</real>
-			<key>timeStoppedRecording</key>
-			<real>581330375.33396995</real>
-			<key>title</key>
-			<string>Debug photoons</string>
-			<key>uniqueIdentifier</key>
-			<string>B21C3889-4BFC-4E66-B7DD-ED82E5AF9130</string>
-		</dict>
-		<key>CCE9F366-E6FB-4F47-9966-E110B28A768F</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>CCE9F366-E6FB-4F47-9966-E110B28A768F.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>photoons project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>photoons</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug photoons</string>
-			<key>timeStartedRecording</key>
-			<real>581330400.688447</real>
-			<key>timeStoppedRecording</key>
-			<real>581330640.72569203</real>
-			<key>title</key>
-			<string>Debug photoons</string>
-			<key>uniqueIdentifier</key>
-			<string>CCE9F366-E6FB-4F47-9966-E110B28A768F</string>
-		</dict>
-		<key>D30D4E5C-A38C-4C7F-B10C-33BCC99F7D64</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>D30D4E5C-A38C-4C7F-B10C-33BCC99F7D64.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>photoons project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>photoons</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug photoons</string>
-			<key>timeStartedRecording</key>
-			<real>581331174.69305801</real>
-			<key>timeStoppedRecording</key>
-			<real>581331399.51113296</real>
-			<key>title</key>
-			<string>Debug photoons</string>
-			<key>uniqueIdentifier</key>
-			<string>D30D4E5C-A38C-4C7F-B10C-33BCC99F7D64</string>
-		</dict>
-		<key>F8B37385-12BA-4AE0-89C7-9AF076175BE0</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>F8B37385-12BA-4AE0-89C7-9AF076175BE0.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>photoons project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>photoons</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug photoons</string>
-			<key>timeStartedRecording</key>
-			<real>581329370.58093202</real>
-			<key>timeStoppedRecording</key>
-			<real>581329792.77470505</real>
-			<key>title</key>
-			<string>Debug photoons</string>
-			<key>uniqueIdentifier</key>
-			<string>F8B37385-12BA-4AE0-89C7-9AF076175BE0</string>
+			<string>EDDAA99A-8C6A-41AC-B93D-E77856934081</string>
 		</dict>
 	</dict>
 </dict>
