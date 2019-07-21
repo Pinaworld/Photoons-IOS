@@ -24,20 +24,6 @@
                                     <accessibilityTraits key="traits" image="YES" notEnabled="YES"/>
                                 </accessibility>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Qo-w6-H5T">
-                                <rect key="frame" x="111" y="736" width="193" height="37"/>
-                                <color key="backgroundColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="30" id="VuY-zs-urH"/>
-                                </constraints>
-                                <state key="normal" title="Connect with Google">
-                                    <color key="titleColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
-                                    <color key="titleShadowColor" cocoaTouchSystemColor="lightTextColor"/>
-                                </state>
-                                <connections>
-                                    <action selector="connectGoogle:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8fg-EG-8GU"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cgP-hl-e9v">
                                 <rect key="frame" x="111" y="650" width="193" height="44"/>
                                 <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -50,6 +36,20 @@
                                 </state>
                                 <connections>
                                     <action selector="connectFaceBook:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Cvm-n3-Jqx"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Qo-w6-H5T">
+                                <rect key="frame" x="111" y="736" width="193" height="37"/>
+                                <color key="backgroundColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="VuY-zs-urH"/>
+                                </constraints>
+                                <state key="normal" title="Connect with Google">
+                                    <color key="titleColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                    <color key="titleShadowColor" cocoaTouchSystemColor="lightTextColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="connectGoogle:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8fg-EG-8GU"/>
                                 </connections>
                             </button>
                             <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" alignment="center" spacing="34" translatesAutoresizingMaskIntoConstraints="NO" id="ygQ-kl-Esi">
@@ -452,9 +452,8 @@
         <image name="baseline_photo_camera_black_36dp.png" width="72" height="72"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="tco-mO-ggj"/>
-        <segue reference="5yp-yE-6Xd"/>
-        <segue reference="t8z-N4-4sb"/>
+        <segue reference="JCP-CN-jZd"/>
+        <segue reference="XZO-Zq-dhE"/>
     </inferredMetricsTieBreakers>
     <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
 </document>
