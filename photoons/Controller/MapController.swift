@@ -55,6 +55,13 @@ class MapController: UIViewController, MKMapViewDelegate {
             }
         }
     }
+    @IBAction func disconnect(_ sender: Any) {
+        
+        UserDefaults.standard.set(nil, forKey: "e_mail")
+        UserDefaults.standard.set(nil, forKey: "e_pseudo")
+        UserDefaults.standard.set(nil, forKey: "e_age")
+        performSegue(withIdentifier: "Login", sender: self)
+    }
     
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
